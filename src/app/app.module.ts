@@ -16,7 +16,7 @@ import { CategoryModule } from './category/category.module';
   imports: [
     AppRoutingModule,
     CategoryModule,
-    SharedModuleModule
+    //SharedModuleModule
   ],
   providers: [],
   bootstrap: [AppComponent]
